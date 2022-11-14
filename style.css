@@ -1,0 +1,37 @@
+body {
+  background-image: url(./img2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+  color: rgb(30, 30, 71);
+  font-size: 22px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+a:hover {
+  color: blue;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+.container1 a {
+  padding: 15px;
+}
+
+p {
+  text-align: center;
+  margin-top: 250px;
+  font-size: 45px;
+}
+
+.title {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: rgb(30, 30, 71);
+}
